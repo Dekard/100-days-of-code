@@ -1,5 +1,6 @@
 # 100 Days Of Code - Log
-
+### Day 11 - Friday - July 21,2017
+**Today's Progress**:  @udacity Nanodegree doing challenges on the JS Foundations course - Conditionals
 
 ### Day 10 - Thursday - July 20,2017
 **Today's Progress**:  @udacity Nanodegree refreshing through the JS Foundations course.
