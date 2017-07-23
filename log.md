@@ -1,4 +1,6 @@
 # 100 Days Of Code - Log
+### Day 13 - Sunday - July 23,2017
+**Today's Progress**:  @udacity Nanodegree finished up JS Conditionals and Loops. Starting Functions.
 
 ### Day 12 - Saturday - July 22,2017
 **Today's Progress**:  @udacity Nanodegree finishing up JS Conditionals and Switch statements
