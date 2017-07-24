@@ -1,4 +1,7 @@
 # 100 Days Of Code - Log
+### Day 14 - Monday - July 24,2017
+**Today's Progress**: #100DaysOfCode Day 14: @udacity FEND NanoDegree. Functions, refresher for 80% of it, will probably redo the last portion to get it stuck
+
 ### Day 13 - Sunday - July 23,2017
 **Today's Progress**:  @udacity Nanodegree finished up JS Conditionals and Loops. Starting Functions.
 
