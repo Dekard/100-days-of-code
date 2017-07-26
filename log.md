@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+
+### Day 16 - Wednesday - July 26,2017
+**Today's Progress**:#100daysofCode Day 16: Concentrating on some personal HTML/CSS projects today.
+
+### Day 15 - Tuesday - July 25,2017
+**Today's Progress**:#100daysofCode Day 15: Spent today doing TeamTreehouse JS courses. I really need to work on myself, I feel like it's a race but only against myself.
+
 ### Day 14 - Monday - July 24,2017
 **Today's Progress**: #100DaysOfCode Day 14: @udacity FEND NanoDegree. Functions, refresher for 80% of it, will probably redo the last portion to get it stuck
 
