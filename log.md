@@ -1,4 +1,6 @@
 # 100 Days Of Code - Log
+### Day 17 - Thursday - July 27,2017
+**Today's Progress**:#100daysofCode Day 17: Today was CSS Specifity and Heirarchy
 
 ### Day 16 - Wednesday - July 26,2017
 **Today's Progress**:#100daysofCode Day 16: Concentrating on some personal HTML/CSS projects today.
