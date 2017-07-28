@@ -1,4 +1,7 @@
 # 100 Days Of Code - Log
+### Day 17 - Friday - July 28,2017
+**Today's Progress**:#100daysofCode Day 18: @Udacity FEND Nanodegree- All about arrays.["hip!", "hip!"] 
+
 ### Day 17 - Thursday - July 27,2017
 **Today's Progress**:#100daysofCode Day 17: Today was CSS Specifity and Heirarchy
 
