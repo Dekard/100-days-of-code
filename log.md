@@ -1,4 +1,16 @@
 # 100 Days Of Code - Log
+### Day 22 - Tuesday - August 1,2017
+**Today's Progress** Back into JS Functions, loops and Control Flow.
+
+### Day 21 - Monday - July 31,2017
+**Today's Progress** Finishing up CSS review, and Bootstrap. Need to start to fill out my sample portfolio with a few projects soon.
+
+### Day 20 - Sunday - July 30,2017
+**Today's Progress**  back home, still checking out some intermediate CSS today.
+
+### Day 19 - Saturday - July 29,2017
+**Today's Progress**  on dialup out of town, so studying css today
+
 ### Day 18 - Friday - July 28,2017
 **Today's Progress**:#100daysofCode Day 18: @Udacity FEND Nanodegree- All about arrays.["hip!", "hip!"] 
 
